@@ -3,7 +3,8 @@
 Semetrální práce z předmětu [ZDO v roce 2022](https://nbviewer.jupyter.org/github/mjirik/ZDO/blob/master/ZDOsem2022.ipynb)
 
 Autoři:
-Kristýna Císlerová a Josef Huml
+skupina 3 - Petr Narovec a Eva Podzimková
+skupina 4 - Kristýna Císlerová a Josef Huml
 
 # Install
 
